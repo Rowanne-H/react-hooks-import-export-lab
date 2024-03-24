@@ -1,4 +1,5 @@
 import React from "react";
+import About from "./About";
 
 function NavBar() {
   return (
@@ -7,3 +8,5 @@ function NavBar() {
     </nav>
   );
 }
+
+export default About;
